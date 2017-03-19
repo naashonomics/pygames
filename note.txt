@@ -1,0 +1,1 @@
+fg and bg modules do not work in mac and is a known issue which was discussed in stack overflow
